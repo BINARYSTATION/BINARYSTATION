@@ -10,7 +10,6 @@ Android developer at **SK Creators**, an independent mobile game studio whose ga
 
 - **[MediStore](https://github.com/BINARYSTATION/medistore)**: medical store management system in Java 21, Swing and SQLite with role-based login, billing, stock and expiry control and reports; 13 test cases written and run.
 - **[Software tester assignment](https://github.com/BINARYSTATION/ablespace-software-tester-assignment)**: exploratory scenarios, test cases, bug reports, a compatibility report and a test summary for a web app.
-- **[Web practice 2023](https://github.com/BINARYSTATION/web-practice-2023)**: early HTML, CSS, JavaScript and React exercises.
 
 ## Skills
 
