@@ -6,9 +6,6 @@ I build Android features and screens in Kotlin and Jetpack Compose at **SK Creat
 studio whose game *Super Run: Classic Game* has **10M+ installs** on Google Play. Every change I make is reviewed by a
 lead developer and tested by hand on real Android devices before it ships.
 
-Before moving into tech I spent 13 years in sales and accounts at one company in Pune (billing, inventory,
-reconciliation), so I build and test software the way its real users work.
-
 ## Tech stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -35,7 +32,7 @@ reconciliation), so I build and test software the way its real users work.
 | Project | What it does | Stack |
 |---|---|---|
 | [MediStore](https://github.com/BINARYSTATION/medistore) | Medical store management: role-based login, billing and stock in one transaction, expiry control, reports; 13 test cases written and run | Java 21, Swing, SQLite |
-| [Software tester assignment](https://github.com/BINARYSTATION/ablespace-software-tester-assignment) | Exploratory scenarios, test cases, bug reports with evidence, a compatibility report and a test summary for a web app | Manual testing |
+| [Software tester assignment](https://github.com/BINARYSTATION/ablespace-software-tester-assignment) | Take-home assignment for a web app: exploratory scenarios, test cases, bug reports with evidence, compatibility report and test summary. Done with an AI assistant (Claude) and reviewed by me. | Manual testing |
 
 ## Currently learning
 
