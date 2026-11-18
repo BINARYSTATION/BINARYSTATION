@@ -31,8 +31,9 @@ lead developer and tested by hand on real Android devices before it ships.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Everyday Mobile Fixes](https://github.com/BINARYSTATION/everyday-mobile-fixes) | Small apps, each recreating one everyday app bug and fixing it, with tests | Kotlin, Jetpack Compose |
 | [MediStore](https://github.com/BINARYSTATION/medistore) | Medical store management: role-based login, billing and stock in one transaction, expiry control, reports; 13 test cases written and run | Java 21, Swing, SQLite |
-| [Software tester assignment](https://github.com/BINARYSTATION/ablespace-software-tester-assignment) | Take-home assignment for a web app: exploratory scenarios, test cases, bug reports with evidence, compatibility report and test summary. Done with an AI assistant (Claude) and reviewed by me. | Manual testing |
+| [Web practice 2023](https://github.com/BINARYSTATION/web-practice-2023) | Early learning projects: an image gallery, a moving rectangle and a small React blog | HTML, CSS, JavaScript, React |
 
 ## Currently learning
 
